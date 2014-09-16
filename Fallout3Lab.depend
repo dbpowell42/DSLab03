@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1410666396 source:c:\users\daniel\desktop\datastructure\fallout3lab\password.cpp
+	"Password.h"
+	<iostream>
+
+1410501030 c:\users\daniel\desktop\datastructure\fallout3lab\password.h
+	"ListArray.h"
+	"Text.h"
+	"Double.h"
+	"HighPerformanceCounter.h"
+	"Integer.h"
+	"Keyboard.h"
+	"ListArrayIterator.h"
+	"Matrix.h"
+	"Permutation.h"
+	"Poly.h"
+	"ReadFile.h"
+	"WriteFile.h"
+	"Random.h"
+	<iostream>
+
+1400376652 c:\users\daniel\desktop\datastructure\fallout3lab\listarray.h
+	"ListArrayIterator.h"
+
+1400376672 c:\users\daniel\desktop\datastructure\fallout3lab\listarrayiterator.h
+
+1400433672 c:\users\daniel\desktop\datastructure\fallout3lab\text.h
+
+1403887836 c:\users\daniel\desktop\datastructure\fallout3lab\double.h
+
+1403968278 c:\users\daniel\desktop\datastructure\fallout3lab\highperformancecounter.h
+
+1403887822 c:\users\daniel\desktop\datastructure\fallout3lab\integer.h
+
+1400416154 c:\users\daniel\desktop\datastructure\fallout3lab\keyboard.h
+	"Text.h"
+	<string>
+
+1403725702 c:\users\daniel\desktop\datastructure\fallout3lab\matrix.h
+
+1404672126 c:\users\daniel\desktop\datastructure\fallout3lab\permutation.h
+	"ListArray.h"
+	"Integer.h"
+	"Random.h"
+
+1400379142 c:\users\daniel\desktop\datastructure\fallout3lab\random.h
+
+1400420812 c:\users\daniel\desktop\datastructure\fallout3lab\poly.h
+
+1410634625 c:\users\daniel\desktop\datastructure\fallout3lab\readfile.h
+	"Text.h"
+	<fstream>
+
+1410634625 c:\users\daniel\desktop\datastructure\fallout3lab\writefile.h
+	"Text.h"
+	<fstream>
+
+1410666529 source:c:\users\daniel\desktop\datastructure\fallout3lab\passworddriver.cpp
+	"Password.h"
+
+1410461402 c:\users\daniel\desktop\datastructure\fallout3lab\libcsc2110.a
+
+1410882817 source:h:\dsl\lab03\fallout3lab\passworddriver.cpp
+	"Password.h"
+
+1410501032 h:\dsl\lab03\fallout3lab\password.h
+	"ListArray.h"
+	"Text.h"
+	"Double.h"
+	"HighPerformanceCounter.h"
+	"Integer.h"
+	"Keyboard.h"
+	"ListArrayIterator.h"
+	"Matrix.h"
+	"Permutation.h"
+	"Poly.h"
+	"ReadFile.h"
+	"WriteFile.h"
+	"Random.h"
+	<iostream>
+
+1400376652 h:\dsl\lab03\fallout3lab\listarray.h
+	"ListArrayIterator.h"
+
+1400376672 h:\dsl\lab03\fallout3lab\listarrayiterator.h
+
+1400433672 h:\dsl\lab03\fallout3lab\text.h
+
+1403887836 h:\dsl\lab03\fallout3lab\double.h
+
+1403968278 h:\dsl\lab03\fallout3lab\highperformancecounter.h
+
+1403887822 h:\dsl\lab03\fallout3lab\integer.h
+
+1400416154 h:\dsl\lab03\fallout3lab\keyboard.h
+	"Text.h"
+	<string>
+
+1403725702 h:\dsl\lab03\fallout3lab\matrix.h
+
+1404672126 h:\dsl\lab03\fallout3lab\permutation.h
+	"ListArray.h"
+	"Integer.h"
+	"Random.h"
+
+1400379142 h:\dsl\lab03\fallout3lab\random.h
+
+1400420812 h:\dsl\lab03\fallout3lab\poly.h
+
+1410634626 h:\dsl\lab03\fallout3lab\readfile.h
+	"Text.h"
+	<fstream>
+
+1410634626 h:\dsl\lab03\fallout3lab\writefile.h
+	"Text.h"
+	<fstream>
+
+1410882823 source:h:\dsl\lab03\fallout3lab\password.cpp
+	"Password.h"
+	<iostream>
+
